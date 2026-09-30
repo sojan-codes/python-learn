@@ -18,3 +18,5 @@ elif(b < a and b < c):
     print('B is Smallest')
 else :
     print('C is Smallest')
+#this is change in the file 
+
