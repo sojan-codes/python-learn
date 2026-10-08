@@ -1,11 +1,11 @@
-# names = ['ram','hari', 'sita', 'gita']
+names = ['ram','hari', 'sita', 'gita']
 
-# first_name = input('Enter Name:')
+first_name = input('Enter Name:')
 
-# if first_name in names:
-#     print("Name Found")
-# else:
-#     print('Name not found')
+if first_name in names:
+    print("Name Found")
+else:
+    print('Name not found')
 
 #Task 1
 values = [10, 20, 30, 40, 50]
